@@ -1,0 +1,10 @@
+E:\Programs\Chapter 2 Numbers 2  and 5\Number 5\Heads or Tails\Heads or Tails\bin\Debug\Heads or Tails.exe.config
+E:\Programs\Chapter 2 Numbers 2  and 5\Number 5\Heads or Tails\Heads or Tails\bin\Debug\Heads or Tails.exe
+E:\Programs\Chapter 2 Numbers 2  and 5\Number 5\Heads or Tails\Heads or Tails\bin\Debug\Heads or Tails.pdb
+E:\Programs\Chapter 2 Numbers 2  and 5\Number 5\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails.csprojAssemblyReference.cache
+E:\Programs\Chapter 2 Numbers 2  and 5\Number 5\Heads or Tails\Heads or Tails\obj\Debug\Heads_or_Tails.Form1.resources
+E:\Programs\Chapter 2 Numbers 2  and 5\Number 5\Heads or Tails\Heads or Tails\obj\Debug\Heads_or_Tails.Properties.Resources.resources
+E:\Programs\Chapter 2 Numbers 2  and 5\Number 5\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails.csproj.GenerateResource.cache
+E:\Programs\Chapter 2 Numbers 2  and 5\Number 5\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails.csproj.CoreCompileInputs.cache
+E:\Programs\Chapter 2 Numbers 2  and 5\Number 5\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails.exe
+E:\Programs\Chapter 2 Numbers 2  and 5\Number 5\Heads or Tails\Heads or Tails\obj\Debug\Heads or Tails.pdb
